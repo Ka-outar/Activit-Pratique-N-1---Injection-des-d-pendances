@@ -1,4 +1,4 @@
-package net.net.kaoutar.ext;
+package net.kaoutar.ext;
 
 import net.kaoutar.dao.IDao;
 

@@ -2,7 +2,7 @@ package net.kaoutar.presentation;
 
 import net.kaoutar.dao.DaoImpl;
 import net.kaoutar.metier.MetierImpl;
-import net.net.kaoutar.ext.DaoImplv2;
+import net.kaoutar.ext.DaoImplv2;
 
 public class Pres1 {
     public static void main(String[] args) {

@@ -1,0 +1,2 @@
+net.kaoutar.ext.DaoImplv2
+net.kaoutar.metier.MetierImpl
