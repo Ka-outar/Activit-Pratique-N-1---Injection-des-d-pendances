@@ -1,6 +1,9 @@
 package net.kaoutar.ext;
 
 import net.kaoutar.dao.IDao;
+import org.springframework.stereotype.Component;
+
+@Component("d2")
 
 public class DaoImplv2 implements IDao {
     @Override
