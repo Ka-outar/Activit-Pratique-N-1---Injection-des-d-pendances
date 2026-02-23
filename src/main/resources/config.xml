@@ -5,7 +5,7 @@
            http://www.springframework.org/schema/beans/spring-beans.xsd">
     <bean id="d" class="net.kaoutar.ext.DaoImplv2"></bean>
     <bean id="metier" class="net.kaoutar.metier.MetierImpl">
-    <property name="dao" ref="d"/>
+    <constructor-arg ref="d"></constructor-arg>
     </bean>
 
 </beans>
